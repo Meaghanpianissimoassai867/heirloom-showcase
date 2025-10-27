@@ -11,7 +11,7 @@
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)](https://vercel.com/)
 
 A thoughtfully designed web app for preserving family recipes, memories, and variations in a private, invite‑only space.
-<br/><br/>**Note**: This is a *showcase repository* with screenshots, architecture notes, and a public demo (coming soon). The full source code is private. Recruiters/hiring managers can request access. See **Access to Private Repo** below.
+<br/><br/>**Note**: This is a *showcase repository* with screenshots, architecture notes, and a public demo (coming soon). The full source code is private. <p/>Recruiters/hiring managers can request access. See **[code access](#contact-and-code-access)** below.
 
 <br/>
 
@@ -36,7 +36,7 @@ Heirloom is a private, family‑only digital recipe book. It helps families coll
 
 <br/>
 
-## 🧱 Tech Stack
+## Tech Stack
 
 * **Framework**: Next.js (App Router) + TypeScript
 * **UI**: TailwindCSS + shadcn/ui
@@ -47,7 +47,7 @@ Heirloom is a private, family‑only digital recipe book. It helps families coll
 
 <br/>
 
-## 🧭 Architecture Overview
+## Architecture Overview
 
 * **App Router** splits routes into public (marketing/landing) and app (authenticated) areas.
 * **Feature Modules** for recipes, variations, stories, shopping list.
@@ -57,11 +57,14 @@ Heirloom is a private, family‑only digital recipe book. It helps families coll
   
 <br/>
 
-## 🖼️ Screenshots
-
-| Hero Page	| Dashboard	| Dashboard (collapsed sidebar) |	Add Recipe | Recipe	search with applied filters | 	Search in loading state |
-| ----------- | ----------- |----------- |----------- |----------- |----------- |
-| ![Hero Page](screenshots/hero.png) | ![Dashboard](screenshots/dashboard.png) | ![Dashboard with Collapsed Sidebar](screenshots/dashboard-sidebar-minimized.png) | ![Add Recipe Dialog](screenshots/app-recipe-dialog.png) | ![Search with Filters](screenshots/search-recipes-with-filters.png) | ![Search Loading](screenshots/search-recipes-loading-state.png) |
+## UI Highlights
+| Screenshot | Description |
+|-------------|--------------|
+| ![Dashboard](screenshots/dashboard.png) | **User Dashboard** - overview of recent recipes, family activity, and personalized shortcuts. |
+| ![Dashboard Collapsed](screenshots/dashboard-sidebar-minimized.png) | **Dashboard (with collapsed sidebar)** - a compact navigation layout for focused browsing. |
+| ![Add Recipe Dialog](screenshots/app-recipe-dialog.png) | **Add Recipe Dialog** - add new recipes manually or via photo upload; supports category and ingredient tagging. |
+| ![Search With Filters](screenshots/search-recipes-with-filters.png) | **Search (with applied filters)** - find recipes by ingredients, tags, or categories. |
+| ![Search Loading](screenshots/search-recipes-loading-state.png) | **Search (in loading state)** - smooth skeleton animation while results are loading. |
 
 <br/>
 
@@ -71,16 +74,7 @@ Heirloom is designed private‑first: invite‑only family spaces, explicit visi
 
 <br/>
 
-## 🔎 Access to Private Repo
-
-The source code is kept private to protect the product’s long‑term potential. **If you’re a recruiter or hiring manager**, I’m happy to grant read‑only access:
-
-* Email me at **anetabarloga@gmail.com** with the subject **“Heirloom — Code Access”**
-* Or message me on [LinkedIn](https://www.linkedin.com/in/anetabarloga "Go to my LinkedIn")
-
-<br/>
-
-## 🧑‍🍳 About the Creator
+## About the Creator
 
 I’m a frontend‑leaning full‑stack engineer focused on UX, component systems, and robust, maintainable code. 
 
@@ -99,6 +93,9 @@ I use Heirloom not just to build a product, but to **deepen my expertise in Reac
 
 <br/>
 
-## 🙌 Contact
+## Contact and Code Access
 
-**Aneta Barloga** — [LinkedIn](https://www.linkedin.com/in/anetabarloga) · [Email](mailto:anetabarloga@gmail.com)
+The source code is kept private to protect the product’s long‑term potential. **If you’re a recruiter or hiring manager**, I’m happy to grant read‑only access:
+
+* Email me at **anetabarloga@gmail.com**
+* Or message me on [LinkedIn](https://www.linkedin.com/in/anetabarloga "Go to my LinkedIn")
